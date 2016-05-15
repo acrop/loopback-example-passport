@@ -14,6 +14,7 @@
     "module": "passport-qq",
     "clientID": "101317542",
     "clientSecret": "541b57a04c086c763e3f256ceba75251",
+    "callbackURL": "/auth/qq/callback",
     "authPath": "/auth/qq",
     "callbackPath": "/auth/qq/callback",
     "successRedirect": "/auth/account",
